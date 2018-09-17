@@ -1,6 +1,6 @@
 token=NDkwNzAyNDQ2MzQ4MzM3MTUz.Dn9ebw.7DLKxgu4Z5r-7S-ZMLEqfhyCh-E
 owner=244632393271476225
-prefix=J
+prefix=jj
 game=
 stayinchannel=true
 songinstatus=false
