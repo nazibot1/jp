@@ -1,6 +1,6 @@
 token=NDkwNzAyNDQ2MzQ4MzM3MTUz.Dn9ebw.7DLKxgu4Z5r-7S-ZMLEqfhyCh-E
-owner=244632393271476225
-prefix=jj
+owner=227023362986082304
+prefix=M
 game=
 stayinchannel=true
 songinstatus=false
